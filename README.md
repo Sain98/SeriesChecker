@@ -3,7 +3,9 @@
 ### About SeriesChecker:
 This is a small program i made to keep track of different shows i watch 
 the config stores the shows you are tracking so you dont lose them if you restart the program etc.
-If you delete your config it will make a new default config and you can start adding new shows to the tracking list again
+If you delete your config it will make a new default config and you can start adding new shows to 
+the tracking list again
+All commands are available if you type 'help' or 'commands' after launching
 
 Made and tested with python version 3.6
 
