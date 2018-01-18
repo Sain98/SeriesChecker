@@ -72,9 +72,8 @@ class SeriesChecker:
 				print("Error: You need to supply a Show ID\nEx: next 82")
 
 		else:
-			print(f"Command: {cmd} | Not found")
-		
-		return
+			print(f'Command: {cmd[0:} | Not found')
+
 
 	def tracking_list(self):
 		for show_id, show_name in self.tracking.items():
